@@ -1,3 +1,4 @@
 
 nginxinc/nginx-unprivileged:1.27-alpine3.20-slim
 selenium/hub
+node:lts
