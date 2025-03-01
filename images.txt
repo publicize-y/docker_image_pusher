@@ -2,4 +2,5 @@
 nginxinc/nginx-unprivileged:1.27-alpine3.20-slim
 selenium/hub
 node:lts
-kafkamap:v1.2.3
+kafkamap:lasted
+dushixiang/kafka-map:latest
